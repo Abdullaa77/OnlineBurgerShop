@@ -1,0 +1,65 @@
+footer {
+  display: flex;
+  background-color: white;
+  padding-bottom: 40px;
+}
+.logo {
+  margin: 47px 356px 55px 0px;
+}
+footer .left {
+  margin-left: 75px;
+}
+footer .left p {
+  color: #000;
+  font-family: Nunito;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 123px;
+}
+footer .right {
+  display: flex;
+  margin-top: 52px;
+}
+footer .right .contact {
+  margin-right: 126px;
+}
+footer .right .contact h1 {
+  color: #000;
+  font-family: Nunito;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 100%;
+  margin-bottom: 24px;
+}
+footer .right .contact p {
+  color: #000;
+  font-family: Nunito;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 130%;
+  display: flex;
+  align-items: center;
+}
+footer .right .contact p img {
+  margin-right: 4px;
+}
+footer .right .social h1 {
+  color: #000;
+  font-family: Nunito;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 100%;
+  margin-bottom: 22px;
+}
+footer .right .social span{
+    display: flex;
+    align-items: center;
+}
+footer .right .social span img:first-child{
+    margin-right: 16px;
+}

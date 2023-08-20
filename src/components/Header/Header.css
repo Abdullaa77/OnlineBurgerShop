@@ -1,0 +1,44 @@
+header {
+  width: 100%;
+  padding: 22px 328px 149px 328px;
+  background: url("../../assets/img/bg.png") center / cover no-repeat;
+}
+header a.logo {
+  display: block;
+  width: 153px;
+  margin: auto;
+}
+header .bottom {
+  display: flex;
+  margin-top: 21px;
+}
+header .bottom .right {
+  margin-left: 21px;
+  width: 437px;
+}
+header .bottom .right h1 {
+  color: #fff;
+  font-family: Nunito;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 120%; /* 60px */
+  margin-top: 45px;
+}
+header .bottom .right h1 span {
+  color: #ff5c00;
+  font-family: Nunito;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 120%;
+}
+header .bottom .right p{
+  margin-top: 52px;
+  color: #FFF;
+  font-family: Nunito;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
